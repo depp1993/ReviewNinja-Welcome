@@ -1,3 +1,5 @@
+[![ReviewNinja](https://app.review.ninja/51143015/badge)](https://app.review.ninja/depp1993/ReviewNinja-Welcome)
+
 # ReviewNinja-Welcome
 
 **Thanks for letting us show you around!**
